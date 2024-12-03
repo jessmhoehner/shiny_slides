@@ -25,7 +25,7 @@ inputs <- list(
 
   # list of templates
   templates = list(
-    template_one = here("files/input/template/Template_SlideCFR.pptx"),
+    template_one = here("files/input/template/Template_SlideCFR.pptx")
    # template_two = here("files/input/template/Template_SlideRepDeath.pptx"),
    # template_three = here("files/input/template/Template_SlideEpiCurve.pptx")
    ),
